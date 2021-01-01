@@ -1,0 +1,56 @@
+00:00.700,00:02.900
+Here's the 4-1-1 on Flash Player's end of life.
+
+00:02.900,00:10.000
+Chances are you've already seen this screen telling you that Adobe will be ending support for Flash Player on December 31st, 2020.
+
+00:10.000,00:12.000
+Which incidentally happens to be today.
+
+00:12.000,00:15.100
+That means no future updates for Flash Player.
+
+00:15.100,00:17.800
+But this end of support comes with some immediate effects.
+
+00:17.800,00:25.700
+Browsers such as Chrome and websites such as Miniclip.com are going to disable all Flash media, starting tomorrow.
+
+00:25.700,00:30.500
+But the actual date you should be worried about is January 12th of 2021.
+
+00:30.500,00:33.700
+When your downloaded Flash Players will cease to function.
+
+00:33.700,00:36.400
+Nicknamed: "The Flash Player Kill Switch"
+
+00:36.400,00:43.200
+Attempting to use Flash Player after January 12th will cause all embeds to be replaced with this rectangular button.
+
+00:43.200,00:48.200
+When clicked on, this button takes the user to Adobe's end of life information page.
+
+00:48.200,00:53.700
+The good news is that there are still going to be alternate methods to be able to run Flash Player even after this date.
+
+00:53.700,00:56.100
+One such project is named "Ruffle"
+
+00:56.100,00:59.900
+Ruffle is an open-source Flash Player emulator written in Rust.
+
+00:59.900,01:03.200
+Through Ruffle, websites such as ArmorGames and Newgrounds
+
+01:03.200,01:08.200
+will be able to continue to offer access to their Flash content well into 2021.
+
+01:08.200,01:11.000
+So be sure to hang onto those .SWF files.
+
+01:11.000,01:15.500
+Be sure to also check out Data Horde's Flash Player emergency kit for other useful resources.
+
+01:15.500,01:20.500
+Long live Flash, and a Happy New Year to you all!
